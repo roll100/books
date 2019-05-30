@@ -1,19 +1,19 @@
 # books
 ## 2019
-重构 第三版 40%
+0.java编程思想 30%
 
-第一本算法书 
+1.重构 第三版 100%
 
-java编程思想 30%
+2.领域驱动设计
 
-sql进阶 
+3.第一本算法书
 
-Spring Boot 实战
+4.effective java 第三版
 
-精通Spring 4.x: 企业应用开发实战
+5.sql进阶
 
-领域驱动设计
+6.Spring Boot 实战
 
-effective java 第三版
+7.精通Spring 4.x: 企业应用开发实战
 
-[HTTP 的文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+8.[HTTP 的文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
